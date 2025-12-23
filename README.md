@@ -11,7 +11,6 @@
 
 
 3. 🛠️ Tech Stack Used -
-       🐍 Python – Core programming language for analysis
        📒 Jupyter Notebook – Interactive environment for data exploration
        🧮 Pandas – Data cleaning, transformation & manipulation
        📊 Matplotlib – Basic data visualizations
