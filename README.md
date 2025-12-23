@@ -1,6 +1,6 @@
 # Incorp-Trends-Insights-FO-Portal-Company-Incoporation-Report
 1. 📊 Project Title / Headline -
-      Monthly Company Incorporation Analysis (Indian, Foreign Companies and LLPs)
+      Monthly Company Incorporation Analysis (Indian, Foreign and LLPs Companies)
 
   
 
